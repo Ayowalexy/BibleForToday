@@ -1,0 +1,8 @@
+export const TYPES = {
+    FONT_FAMILY: 'font/FONT_FAMILY',
+    FONT_SIZE: 'font/FONT_SIZE',
+    FONT_COLOR: 'font/FONT_COLOR',
+    FONT_OPACITY: 'font/FONT_OPACITY',
+    FONT_TEXT_ALIGHN: 'font/FONT_TEXT_ALIGHN',
+
+}
